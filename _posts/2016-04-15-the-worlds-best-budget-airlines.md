@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T01:53:55.974Z'
+datePublished: '2016-08-05T02:44:19.574Z'
 sourcePath: _posts/2016-04-15-the-worlds-best-budget-airlines.md
 inFeed: true
 isBasedOnUrl: >-
@@ -25,7 +25,8 @@ author:
   - name: '@mmeltrez'
     url: 'https://www.twitter.com/@mmeltrez'
     avatar: {}
-dateModified: '2016-08-05T01:53:55.048Z'
+via: {}
+dateModified: '2016-08-05T02:44:19.323Z'
 title: The World's Best Budget Airlines
 app_links:
   - namespace: twitter
@@ -40,10 +41,9 @@ publisher:
 description: Here are 10 of the best budget airlines in the world.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The World's Best Budget Airlines</h1><p>Here are 10 of the best budget airlines in the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50f3082041c9f4d9872cb6ecfb9f3f494f138013.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50f3082041c9f4d9872cb6ecfb9f3f494f138013.jpg" /><h1>The World's Best Budget Airlines</h1><p>Here are 10 of the best budget airlines in the world.</p></article>
