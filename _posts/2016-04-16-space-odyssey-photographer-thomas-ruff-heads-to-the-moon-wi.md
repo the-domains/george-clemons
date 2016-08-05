@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T02:48:52.828Z'
+datePublished: '2016-08-05T03:10:58.295Z'
 sourcePath: >-
   _posts/2016-04-16-space-odyssey-photographer-thomas-ruff-heads-to-the-moon-wi.md
 inFeed: true
@@ -22,7 +22,8 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-05T02:48:52.715Z'
+via: {}
+dateModified: '2016-08-05T03:10:57.929Z'
 title: 'Space odyssey: photographer Thomas Ruff heads to the moon with new work.'
 app_links: []
 publisher:
@@ -37,10 +38,9 @@ description: >-
   latest series of work.
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Space odyssey: photographer Thomas Ruff heads to the moon with new work.</h1><p>The Düsseldorf photographer Thomas Ruff is having his day in the sun, with the Art Gallery of Ontario's 'Object Relations', a major solo show, opening this month. Closer to home, Chelsea's David Zwirner Gallery is celebrating Ruff's latest series of work.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8a09fa223ef7576c2280cc4791191f7651bcb1.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8a09fa223ef7576c2280cc4791191f7651bcb1.jpg" /><h1>Space odyssey: photographer Thomas Ruff heads to the moon with new work.</h1><p>The Düsseldorf photographer Thomas Ruff is having his day in the sun, with the Art Gallery of Ontario's 'Object Relations', a major solo show, opening this month. Closer to home, Chelsea's David Zwirner Gallery is celebrating Ruff's latest series of work.</p></article>
