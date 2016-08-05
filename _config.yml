@@ -1,15 +1,15 @@
-layout_spectrum: 0.8464603105094284
-typography_spectrum: 0.7626416478306055
+layout_spectrum: 0.07958713127300143
+typography_spectrum: 0.8039160904008895
 color:
-  brandStrength: 0.5288935815915465
-  lightness: 0.004346429603174329
-  saturation: 0.27845204155892134
-  rhythmicContrast: 0.31736286426894367
+  brandStrength: 0.5066069164313376
+  lightness: 0.07127255038358271
+  saturation: 0.9309539329260588
+  rhythmicContrast: 0.844737202860415
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
 name: George Lamar Clemons
 title: Technologist & Unified Communications Advisor
