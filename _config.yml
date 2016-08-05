@@ -1,16 +1,16 @@
-typography_spectrum: 0.8039160904008895
+typography_spectrum: 0.4721724232658744
 color:
-  brandStrength: 0.5066069164313376
-  lightness: 0.07127255038358271
-  saturation: 0.9309539329260588
-  rhythmicContrast: 0.844737202860415
+  brandStrength: 0.3435184780973941
+  lightness: 0.6257350894156843
+  saturation: 0.050069963093847036
+  rhythmicContrast: 0.8276505928952247
   brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
-layout_spectrum: 0.07958713127300143
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+layout_spectrum: 0.3447834837716073
 name: Technologist & UC Consultant
 title: George Lamar Clemons
 description: Technologist & UC Consultant
