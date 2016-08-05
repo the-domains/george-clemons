@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T03:11:50.802Z'
+datePublished: '2016-08-05T17:53:00.002Z'
 sourcePath: _posts/2016-04-15-eero-no-more-internet-dead-zones.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/tech/eero-wifi-that-works'
@@ -21,7 +21,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-05T03:11:50.469Z'
+dateModified: '2016-08-05T17:52:59.549Z'
 title: 'eero: No More Internet Dead Zones'
 app_links: []
 publisher:
@@ -36,7 +36,7 @@ description: >-
   and that just doesn't work for how we use Internet today.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
