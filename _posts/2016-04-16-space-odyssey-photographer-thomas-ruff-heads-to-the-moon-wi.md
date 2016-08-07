@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-05T03:32:45.123Z'
+datePublished: '2016-08-07T03:06:00.032Z'
 sourcePath: >-
   _posts/2016-04-16-space-odyssey-photographer-thomas-ruff-heads-to-the-moon-wi.md
 inFeed: true
@@ -23,7 +23,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-05T03:32:44.764Z'
+dateModified: '2016-08-07T03:05:59.520Z'
 title: 'Space odyssey: photographer Thomas Ruff heads to the moon with new work.'
 app_links: []
 publisher:
@@ -38,7 +38,7 @@ description: >-
   latest series of work.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
